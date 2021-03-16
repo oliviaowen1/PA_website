@@ -4,6 +4,15 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 .icon-font{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+.contact {
+background-color: #1f2039;
+color: white;
+text-align: center;
+float: middle;
+padding: 25px;
+}
+
 .panel-footer {
     background-color:#fd8839 !important;
     
