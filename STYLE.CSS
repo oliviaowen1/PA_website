@@ -56,6 +56,13 @@ padding: 25px;
     margin: 10px;
 } */
 
+/* Top of page image */
+
+.image-top-page  {
+  background-image: url("./assets/stock-imgpng.png");
+  background-color: #cccccc;
+  height: 500px;
+}
 
 /* FAQS */
 .template_faq {
