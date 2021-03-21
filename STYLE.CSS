@@ -142,6 +142,10 @@ padding: 25px;
   padding-top: 60px;
 }
 
+/* Video */
+.video-pad{
+  padding:30px;
+}
 
 /* Image Section */
 .image-stats {
