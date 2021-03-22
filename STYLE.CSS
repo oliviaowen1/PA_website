@@ -59,11 +59,11 @@ padding: 25px;
 /* Top of page image */
 
 .image-top-page  {
-  background-image: url("./assets/stock-imgpng.png") no-repeat center center;
-  min-height:100%;
-  background-size:cover;
-  background-color: #cccccc;
-  height: 500px;
+  background-image: url(https://github.com/oliviaowen1/PA_website/blob/main/assets/stock-imgpng.png?raw=true);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 550px;
 }
 
 /* FAQS */
