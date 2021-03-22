@@ -59,7 +59,9 @@ padding: 25px;
 /* Top of page image */
 
 .image-top-page  {
-  background-image: url("./assets/stock-imgpng.png");
+  background-image: url("./assets/stock-imgpng.png") no-repeat center center;
+  min-height:100%;
+  background-size:cover;
   background-color: #cccccc;
   height: 500px;
 }
@@ -149,8 +151,10 @@ padding: 25px;
 
 /* Image Section */
 .image-stats {
-  background-image: url("./assets/Picture1.png");
-  background-color: #cccccc;
+  background-image: url("./assets/Picture1.png")no-repeat center center;
+  min-height:100%;
+  background-size:cover;
+  /* background-color: #cccccc; */
   height: 350px;
 }
 
