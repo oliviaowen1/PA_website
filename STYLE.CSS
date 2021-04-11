@@ -110,6 +110,11 @@ padding: 25px;
     height: 100%;
     object-fit: cover;
 } */
+
+.blue-bg {
+ background-color: #1f2039;
+}
+
 video {
   left: 50%;
   min-height: 100%;
@@ -117,6 +122,24 @@ video {
   position: absolute;
   top: 50%;
   transform: translate(-50%, -50%);
+}
+
+/* RIGHT THINGS RIGHT */
+
+.right-section {
+  padding: 50px;
+}
+.right-section-mid {
+  padding-top: 50px;
+  /* padding-right: 50px;
+  padding-bottom: 25px; */
+  padding-left: 100px;
+}
+.right-section-end {
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 25px;
+  padding-left: 150px;
 }
 
 /* FAQS */
