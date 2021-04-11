@@ -145,6 +145,9 @@ video {
   padding-left: 150px;
 }
 
+.top-mid-text {
+  padding-top: 5px;
+}
 /* FAQS */
 .template_faq {
   background: #1f2039 none repeat scroll 0 0;
