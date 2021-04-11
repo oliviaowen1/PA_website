@@ -127,16 +127,19 @@ video {
 /* RIGHT THINGS RIGHT */
 
 .right-section {
-  padding: 50px;
+  padding-top: 30px;
+}
+.pad-bot-left {
+  padding-top: 75px;
 }
 .right-section-mid {
-  padding-top: 50px;
+  padding-top: 30px;
   /* padding-right: 50px;
   padding-bottom: 25px; */
   padding-left: 100px;
 }
 .right-section-end {
-  padding-top: 50px;
+  padding-top: 30px;
   padding-right: 50px;
   padding-bottom: 25px;
   padding-left: 150px;
