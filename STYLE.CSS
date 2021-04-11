@@ -148,6 +148,7 @@ video {
 .top-mid-text {
   padding-top: 5px;
 }
+
 /* FAQS */
 .template_faq {
   background: #1f2039 none repeat scroll 0 0;
@@ -294,6 +295,20 @@ video {
     margin-bottom: 10px;
 }
 
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
 
 /*	end gallery */
 
